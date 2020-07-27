@@ -5,6 +5,6 @@ void output(const char * text) {
 }
 
 int main() {
-    printf("Hello World!");
+    printf("233333");
     return 0;
 }
